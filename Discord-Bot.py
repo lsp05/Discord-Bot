@@ -50,7 +50,7 @@ def main():
     intents.guilds = True
     bot = commands.Bot(command_prefix="!", intents=intents)
 
-    DISCORD_TOKEN = "MTE1NDE3NzY0NDYwMzEyNTg4Mg.GMaBrS.G-gP7okwo62JwxsRvxkXIFSDOFyIRdTxAUJZ0g" 
+    DISCORD_TOKEN = "Enter Your Discord Token Here" 
     API_KEY = "a11d4dfebd37aad46090286fdfff81ac" #API KEY FOR WEATHER
     BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 
